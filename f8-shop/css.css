@@ -1,0 +1,12 @@
+/* Có 3 kiểu ép CSS trong html 
+    1. Internal sử dụng cặp thẻ style
+    2. External sử dụng cặp thẻ link, flie ở bên ngoài (hoặc trên internet
+    3. Inline  sử dụng attribute style trong thẻ mở của html và viết các thuộc tính của style vào
+*/
+.khoi1{
+    font-size: 20px;
+}
+h1 {
+    color: aqua;
+    font-size: 50px;
+}
